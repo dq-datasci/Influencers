@@ -1,0 +1,10 @@
+# Publicación estática de los reportes HTML generados por run_all.R
+[build]
+  publish = "docs"
+  command = ""
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    X-Robots-Tag = "noindex"
