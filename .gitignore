@@ -4,3 +4,6 @@
 .Rlib/
 models/*.rds
 
+
+# Local Netlify folder
+.netlify

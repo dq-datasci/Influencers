@@ -1,0 +1,24 @@
+{
+ "name": "influencia360-dq",
+ "url": "http://influencia360-dq.netlify.app",
+ "ssl_url": "https://influencia360-dq.netlify.app",
+ "admin_url": "https://app.netlify.com/projects/influencia360-dq",
+ "created_at": "2026-10-16T09:10:54.928Z",
+ "published_deploy": {
+  "id": "6ad1ea33556d3dac0318a50d",
+  "state": "ready",
+  "published_at": "2026-10-16T09:11:53.156Z",
+  "deploy_ssl_url": "https://6ad1ea33556d3dac0318a50d--influencia360-dq.netlify.app",
+  "title": "Influencia360 - reportes BI II",
+  "context": "production"
+ },
+ "sso_login": false,
+ "has_password": false,
+ "processing_settings": {
+  "html": {
+   "pretty_urls": true
+  },
+  "ignore_html_forms": true
+ },
+ "build_settings": {}
+}

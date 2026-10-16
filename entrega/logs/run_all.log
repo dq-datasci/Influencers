@@ -1,0 +1,7 @@
+Datos generados: 650 perfiles, 8133 relaciones, 5200 publicaciones y 35810 interacciones.
+Control de calidad: 12 de 12 pruebas aprobadas.
+Modelo generado con 15 arcos; exactitud influencia = 0.808.
+Generado: docs/index.html
+Generado: docs/dashboard_datos.html
+Generado: docs/dashboard_resultados.html
+Pipeline completo. Abra docs/index.html

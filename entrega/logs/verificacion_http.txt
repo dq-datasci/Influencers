@@ -1,0 +1,37 @@
+== GET https://influencia360-dq.netlify.app/
+HTTP/2 200 
+cache-control: public,max-age=0,must-revalidate
+content-encoding: br
+content-type: text/html; charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+== GET https://influencia360-dq.netlify.app/dashboard_datos.html
+HTTP/2 200 
+cache-control: public,max-age=0,must-revalidate
+content-encoding: br
+content-type: text/html; charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-robots-tag: noindex
+== GET https://influencia360-dq.netlify.app/dashboard_resultados.html
+HTTP/2 200 
+cache-control: public,max-age=0,must-revalidate
+content-encoding: br
+content-type: text/html; charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-robots-tag: noindex
+== GET https://influencia360-dq.netlify.app/dashboard_resultados
+HTTP/2 200 
+cache-control: public,max-age=0,must-revalidate
+content-encoding: br
+content-type: text/html; charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+== GET http://influencia360-dq.netlify.app/
+HTTP/1.1 301 Moved Permanently
+Location: https://influencia360-dq.netlify.app/
+== Tamaños transferidos (Brotli) vs. originales
+index.html  original=8687193  br=2468635
+dashboard_datos.html  original=10074314  br=3851639
+dashboard_resultados.html  original=10092713  br=3867416
